@@ -1,0 +1,15 @@
+.false-avtorization p{
+    font-size: 14px;
+    color: red;
+}
+.sertificates-component__form{
+    margin-bottom: 30px;
+}
+.sertificates-list__elem{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.sertificates-list___title{
+    font-size: 14px;
+    color: green;
+}
